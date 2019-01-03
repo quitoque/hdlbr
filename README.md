@@ -37,7 +37,7 @@ Hello {{name}}
 {{~/each~}}
 ````
 
-Result:
+Result of ``hdlbr vars.json template.hbs`:
 
 ````
 Hello Foo
