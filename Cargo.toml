@@ -1,0 +1,11 @@
+[package]
+name = "hdlbr"
+version = "0.1.0"
+authors = ["Jerome Arzel <jerome@quitoque.fr>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.31"
+serde = "1.0"
+serde_json = "1.0.34"
+handlebars = "1.1.0"
