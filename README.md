@@ -1,4 +1,4 @@
-# hdlbr - Handlebars CLI
+# hdlbr - [Handlebars](https://handlebarsjs.com) CLI
 
 ## Usage
 
