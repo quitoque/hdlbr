@@ -1,7 +1,9 @@
 [package]
 name = "hdlbr"
+description = "Handlebars CLI (Templating by command-line)"
 version = "0.1.0"
 authors = ["Jerome Arzel <jerome@quitoque.fr>"]
+license = "MIT"
 edition = "2018"
 
 [dependencies]
