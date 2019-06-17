@@ -8,7 +8,7 @@ hdlbr VARIABLES_FILE TEMPLATE_FILE
 
 Where:
 - VARIABLES_FILE is a JSON map, listing all vars.
-- TEMPLATE_TILE is a Handlebars template.
+- TEMPLATE_FILE is a Handlebars template.
 
 ## Example
 
