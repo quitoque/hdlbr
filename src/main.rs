@@ -8,7 +8,7 @@ use serde_json::Map;
 use serde_json::value::Value;
 use clap::clap_app;
 
-fn read_vars_from_file<P: AsRef<Path>>(path: P) -> Result<Map<String, Value>, Box<Error>> {
+fn read_vars_from_file<P: AsRef<Path>>(path: P) -> Result<Value, Box<Error>> {
     let file = File::open(path)?;
     let reader = BufReader::new(file);
 
